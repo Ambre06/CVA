@@ -1,0 +1,153 @@
+/* GENERAL */
+
+body
+{
+    font-family: 'Lato', sans-serif;
+}
+h1,h2,h3,h4,h5,h6
+{
+    font-weight: bold;
+}
+img
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+section
+{
+    padding: 45px 0 80px 0;
+}
+section .heading
+{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.red-divider
+{
+    width: 100px;
+    height: 2px;
+    background: #d82c2e;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+/* ABOUT */
+
+#about
+{
+    padding-top: 100px;
+    background: #d82c2e;
+}
+.profile-picture 
+{
+    text-align: center;
+    margin: 0 auto;
+     float: none; 
+}
+#about .heading h1 
+{
+    color: #fff;
+    text-transform: uppercase;
+}
+#about .heading h3
+{
+    color:#000
+}
+.button1
+{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    border: 1px solid white;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 18px 50px;
+    border-radius: 3px;
+    transition: all 0,3s ease-in 0s;
+
+}
+.button1:hover
+{
+    background: white;
+    color: #d82c2e;
+    text-decoration: none;
+}
+/* SKILLS */
+#skills
+{
+    background: #fff;
+}
+#skills .heading h2
+{
+    color: #d82c2e;
+    text-transform: uppercase;
+}
+#skills .progress
+{
+    height: 20%;
+    margin: 30px 20px;
+    background: #ddd;
+}
+#skills .progress-bar
+{
+    background: #d82c2e;
+}
+#skills .progress h5
+{
+    text-shadow: 1px 1px 1px #000;
+}
+/* education */
+#education
+{
+    background: #fff;
+}
+#education .heading h2
+{
+    color: #d82c2e;
+}
+.education-block
+{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+    background: #ddd;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+}
+.education-block h5
+{
+    color: #888;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.education-block h3 
+{
+    color: #d82c2e;
+}
+.education-block h4
+{
+    margin-bottom: 20px;
+}
+.education-block p
+{
+    font-weight: bold;
+}
+#education .heading h2
+{
+    color: #d82c2e;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
